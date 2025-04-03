@@ -1,7 +1,6 @@
 An h1 header - this is from the new feature branch!!! 💃💃
 ============
 
-🚨simulate merge conflict🚨
 
 Paragraphs are separated by a blank line. 
 
