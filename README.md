@@ -1,6 +1,7 @@
 An h1 header - this is from the new feature branch!!! 💃💃
 ============
 
+🪩😎 I'm coding without checking for other changes. 🤡
 
 Paragraphs are separated by a blank line. 
 
